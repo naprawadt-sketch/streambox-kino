@@ -2,6 +2,8 @@
 
 Streambox Kino is an Android multimedia app combining a media catalog, a local video player, IPTV playlists, internet radio and a built-in BitTorrent client.
 
+**Interface language: Russian.**
+
 ## Features
 
 - Movie, series and anime catalog with search, filters and favorites.
